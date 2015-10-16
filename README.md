@@ -1,0 +1,2 @@
+# hamming
+Hamming Code Generator
